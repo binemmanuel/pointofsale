@@ -1,0 +1,49 @@
+Code,Name,Purchase Price,Tax,Retail Price,Category Code
+PR-001,Afang Soup,400,0,400,C9
+PR-002,Amala,200,0,200,C10
+PR-003,Amstel Malta,200,0,200,C4
+PR-004,Assorted,200,0,200,C6
+PR-005,Beans Porridge (Mama Africa),800,0,800,C1
+PR-006,Beef,200,0,200,C6
+PR-007,Big Coke,200,0,200,C4
+PR-008,Bitter Leaf Soup,400,0,400,C9
+PR-009,Boiled yam / Tomato egg sauce,600,0,600,C3
+PR-010,Chicken,500,0,500,C6
+PR-011,Chinese Egg Fried Rice,600,0,600,C7
+PR-012,Chinese Special Fried Rice,800,0,800,C7
+PR-013,Chivita ,700,0,700,C4
+PR-014,Club Sandwich,500,0,500,C8
+PR-015,"Complete English Breakfast (Toast Bread, Sunny side up eggs, pancake, kidey sauce, baked beans, chicken part)",2000,0,2000,C3
+PR-016,Coslow,200,0,200,C5
+PR-017,Cow Leg,600,0,600,C6
+PR-018,Dry,800,0,800,C6
+PR-019,Eba,200,0,200,C10
+PR-020,Egusi Soup,400,0,400,C9
+PR-021,Ewedu /Gbegiri (Abula),400,0,400,C9
+PR-022,Fayrouz,200,0,200,C4
+PR-023,Fish Titus,200,0,200,C6
+PR-024,Five Alive,700,0,700,C4
+PR-025,French Fries Sausages or Eggs,700,0,700,C3
+PR-026,Fresh Fish(Cat Fish),1000,0,1000,C6
+PR-027,Fried Rice,400,0,400,C7
+PR-028,Fried Yam wit Omelet Vegetable Sauce,700,0,700,C3
+PR-029,Goat Meat,300,0,300,C6
+PR-030,Green Salad,300,0,300,C5
+PR-031,Haz Delight Chicken Salad,1500,0,1500,C5
+PR-032,Haz Delight Chinese Rice Combo,1500,0,1500,C7
+PR-033,Jollof Rice,400,0,400,C7
+PR-034,Maltina,200,0,200,C4
+PR-035,Moi Moi,400,0,400,C1
+PR-036,Ogbono Soup,400,0,400,C9
+PR-037,Oha Soup,400,0,400,C9
+PR-038,Pounded Yam,300,0,300,C10
+PR-039,Semovita,200,0,200,C10
+PR-040,Spaghetti Bolognese (Spaghetti in mincemeat tomato sauce on a bed of vegetables),1500,0,1500,C5
+PR-041,Spaghetti Jollof,500,0,500,C5
+PR-042,Spaghetti with tomato sauce ,500,0,500,C5
+PR-043,Tea and Coffee,250,0,250,C2
+PR-044,Vegetable Soup,400,0,400,C9
+PR-045,Water,100,0,100,C4
+PR-046,Wheat,200,0,200,C10
+PR-047,White Rice,400,0,400,C7
+PR-048,White Soup(With Chicken or Goat),1400,0,1400,C9
